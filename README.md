@@ -5,5 +5,7 @@
 1. [첫번째 시도](./first)
 
 
+```python
 def say_hello():
     print('hello')
+```
